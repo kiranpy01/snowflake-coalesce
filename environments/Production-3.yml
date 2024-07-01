@@ -2,10 +2,10 @@ fileVersion: 1
 id: "3"
 mappingDefinitions:
   SRC:
-    database: PC_COALESCE_DB
-    schema: PUBLIC
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
   WORK:
     database: PC_COALESCE_DB
-    schema: PUBLIC
+    schema: PROD
 name: Production
 type: Environment
